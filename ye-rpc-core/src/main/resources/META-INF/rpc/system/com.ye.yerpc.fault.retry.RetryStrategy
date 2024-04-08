@@ -1,0 +1,2 @@
+no=com.ye.yerpc.fault.retry.NoRetryStrategy
+fixedInterval=com.ye.yerpc.fault.retry.FixedIntervalRetryStrategy

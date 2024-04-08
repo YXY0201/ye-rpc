@@ -1,0 +1,4 @@
+jdk=com.ye.yerpc.serializer.JdkSerializer
+hessian=com.ye.yerpc.serializer.HessianSerializer
+json=com.ye.yerpc.serializer.JsonSerializer
+kryo=com.ye.yerpc.serializer.KryoSerializer

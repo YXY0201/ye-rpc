@@ -1,0 +1,3 @@
+roundRobin=com.ye.yerpc.loadbalancer.RoundRobinLoadBalancer
+random=com.ye.yerpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.ye.yerpc.loadbalancer.ConsistentHashLoadBalancer

@@ -1,0 +1,4 @@
+failBack=com.ye.yerpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.ye.yerpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.ye.yerpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.ye.yerpc.fault.tolerant.FailSafeTolerantStrategy
